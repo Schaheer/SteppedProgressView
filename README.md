@@ -123,7 +123,7 @@ If you're using Storyboards/Interface Builder you can create a `RFSteppedProgres
 <img src="Metadata/storyboards_config.png" width="300">
 
 ### Customisation:
-`RFSteppedProgressView` includes support for IBInspectable, to allow configuration of the color inside Interface Builder/Storyboards
+`RFSteppedProgressView` includes support for IBInspectable, to allow configuration of the color for min and max track, number of states and current index inside Interface Builder/Storyboards
 
 <img src="Metadata/configuration.png" width="300">
 
